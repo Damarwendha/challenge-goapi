@@ -1,4 +1,4 @@
-# Laundrys API Documentation
+# API Documentation
 
 ## Table of Contents
 
