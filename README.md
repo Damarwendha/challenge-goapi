@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://git.enigmacamp.com/enigma-20/sien-khumaen-damarwendha/challenge-goapi.git
+   https://github.com/Damarwendha/challenge-goapi.git
    ```
 
 2. Change into the project directory:
