@@ -79,7 +79,6 @@ The application will start, and you can access it at [http://localhost:8080](htt
     Body Request Example (raw):
   ```
   {
-    "id": 1234, 
     "name": "John Doe",
     "phone": "085856209376",
   }
@@ -118,7 +117,6 @@ The application will start, and you can access it at [http://localhost:8080](htt
   ```
   // EMPTY ATTRIBUTE NOT HANDLED YET, SO WHEN ONE OR MORE ATTRIBUTE IS EMPTY IT WILL STILL UPDATE THE ATTRIBUTE TO ZERO VALUE
   {
-    "id": 1234,
     "name": "John Doe",
     "price": 10000,
     "unit_type_id": 1 // either 1 or 2
