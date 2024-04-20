@@ -11,7 +11,7 @@ const (
 	host     = "localhost"
 	port     = 5432
 	user     = "postgres"
-	password = "Xsasasax1"
+	password = "secret"
 	dbname   = "enigma_laundry"
 )
 
