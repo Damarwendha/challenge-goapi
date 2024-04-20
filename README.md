@@ -1,6 +1,4 @@
-# Enigma Laundry Submission Project
-
-This is a submission project for Enigma Laundry.
+# Laundrys API Documentation
 
 ## Table of Contents
 
@@ -13,7 +11,7 @@ This is a submission project for Enigma Laundry.
 
 ## Introduction
 
-This project is a Go application that manages customers, products, and transactions for Enigma Laundry. It uses the Gin web framework and PostgreSQL as the database.
+This project is a Go application that manages customers, services, and transactions. It uses the Gin web framework and PostgreSQL as the database.
 
 ## Prerequisites
 
